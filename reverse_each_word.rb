@@ -16,4 +16,4 @@ end
 
 #iterate over the Array
   #then reverse each word 
-  #return new array as a string 
+  #return new array as an array to use the join function  
